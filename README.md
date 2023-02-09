@@ -14,5 +14,8 @@
 
 It took me about 3 Hours designing this website.
 
-Final Output:
+## Final Output:
 ![Output](/Screenshot.png)
+
+# Project link
+[![Live Project 1](https://img.shields.io/badge/Project--2-Netlify-blue)](https://iyuvrajsha-project2.netlify.app/ "Project 2")
